@@ -6,3 +6,5 @@
 * crawl2.py（基于crawl.py使用多线程）
 * com/model/Weather（天气对象模型）
 * com/utils/PostGreSQL（PostGreSQL工具类）
+# 备注
+运行前需将中国城市数据导入到PostGre数据库
