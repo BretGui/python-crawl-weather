@@ -4,8 +4,8 @@ import psycopg2
 
 dataBaseName = "weather"
 userName = "postgres"
-password = "Gaiaxis2011"
-host = "47.97.173.229"
+password = "postgres"
+host = "localhost"
 port = "5432"
 
 class PostGreSQL:
